@@ -1,0 +1,3 @@
+[submodule "vendor/scope"]
+	path = vendor/scope
+	url = https://github.com/Savid/wagie-dev-scope.git
